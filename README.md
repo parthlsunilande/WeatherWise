@@ -17,3 +17,9 @@ WeatherWise is a Python-based weather forecasting application that provides real
 ## Notes
 - Email alerts require a dedicated Gmail + App Password.
 - CLI mode is optional and can be activated by commenting out run_gui().
+
+- #Contact
+- If you have any questions, suggestions, or just want to connect, feel free to reach out!
+- Email:parthlande1111@gmail.com
+- Linkedin:linkedin.com/in/parth-lande
+- Thank you for visiting my repository.
